@@ -1,6 +1,4 @@
-numpy
 pandas
-Babel==2.12.1
 matplotlib
 seaborn
-urllib3==2.0.2
+urllib
